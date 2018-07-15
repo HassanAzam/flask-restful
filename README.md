@@ -3,10 +3,10 @@ A simple Flask Restful API using Flask-restful
 
 ## Description
 - A simple Flask Restful API with following endpoints:
-    - **//add: ** **POST method**
-    - **//subtract: ** **POST method**
-    - **//multiply: ** **POST method**
-    - **//division: ** **POST method**
+    - **/****add: ** **POST method**
+    - **/****subtract: ** **POST method**
+    - **/****multiply: ** **POST method**
+    - **/****division: ** **POST method**
 
 - Posted data format
 ```
